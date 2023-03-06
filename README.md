@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amine
 - 👀 I’m interested in extreme sports, technology breakthrough and philosophy  
-- 🌱 I’m currently learning Javascript and react
+- 🌱 I’m currently learning spring boot and firebase
 - 💞️ I’m looking to collaborate on front end web projects
 - 📫 How to reach me : 
   - https://www.linkedin.com/in/mohamed-amine-rhindi-bb8501124/
